@@ -1,8 +1,11 @@
 {
   "name": "@markbarton/default-pretty",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "My personal Prettier config",
-  "main": ".prettierrc",
+  "main": "prettier.config.js",
+  "files": [
+    "prettier.config.js"
+  ],
   "repository": {
     "type": "git",
     "url": "https://github.com/markbarton/default-pretty.git"
