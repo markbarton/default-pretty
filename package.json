@@ -1,0 +1,9 @@
+{
+  "name": "@markbarton/default-pretty",
+  "version": "1.0.0",
+  "description": "My personal Prettier config",
+  "main": "index.json",
+  "repository": "git@github.com:markbarton/default-pretty.git",
+  "author": "Mark Barton <mark@shinydesign.co.uk>",
+  "license": "MIT"
+}
