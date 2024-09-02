@@ -1,6 +1,6 @@
 {
   "name": "@markbarton/default-pretty",
-  "version": "1.0.2",
+  "version": "1.0.4",
   "description": "My personal Prettier config",
   "main": "prettier.config.js",
   "files": [
