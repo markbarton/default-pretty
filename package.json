@@ -1,11 +1,14 @@
 {
   "name": "@markbarton/default-pretty",
-  "version": "1.0.4",
+  "version": "1.0.6",
   "description": "My personal Prettier config",
   "main": "prettier.config.js",
   "files": [
     "prettier.config.js"
   ],
+  "dependencies": {
+    "@ianvs/prettier-plugin-sort-imports": "^4.3.1"
+  },
   "repository": {
     "type": "git",
     "url": "https://github.com/markbarton/default-pretty.git"
